@@ -1,0 +1,7 @@
+{
+  "token": "BOT_TOKEN_BURAYA",
+  "guildId": "SUNUCU_ID_BURAYA",
+  "panelChannelId": "PANEL_KANAL_ID_BURAYA",
+  "confessionChannelId": "ITIRAF_KANAL_ID_BURAYA",
+  "logChannelId": "LOG_KANAL_ID_BURAYA"
+}

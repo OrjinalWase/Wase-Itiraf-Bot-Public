@@ -1,0 +1,18 @@
+{
+  "name": "itiraf-panel-bot",
+  "version": "1.0.0",
+  "description": "Canvas tasarimli, gelistirici imzasi destekleyen Discord itiraf panel botu.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "engines": {
+    "node": ">=20.19.6"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.97",
+    "discord.js": "^14.26.0"
+  }
+}
